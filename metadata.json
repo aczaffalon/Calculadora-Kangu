@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora Kangu",
+  "description": "App para calcular ganhos de rotas Kangu com base em KM e endereços.",
+  "requestFramePermissions": []
+}
